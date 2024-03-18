@@ -22,3 +22,16 @@
 a {
     text-decoration: none;
 }
+
+.my-circle {
+     border-radius: 100%;
+     width: 100px;
+     height: 100px;
+     margin: auto;
+     
+     
+}
+
+.my-bg {
+    background-color: aquamarine;
+}
